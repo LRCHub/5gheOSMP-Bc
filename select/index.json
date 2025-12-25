@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "La La Love Me",
+  "base_artist": "VIVIZ",
+  "createdAt": "2025-12-25T01:43:36.424862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La La Love Me",
+      "artist": "Lola Lennox",
+      "has_synced": true,
+      "path": "select/01_La_La_Love_Me_Lola_Lennox.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La La Love Me",
+      "artist": "VIVIZ",
+      "has_synced": true,
+      "path": "select/02_La_La_Love_Me_VIVIZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La La La Love Me",
+      "artist": "Monophonics",
+      "has_synced": true,
+      "path": "select/03_La_La_La_Love_Me_Monophonics.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La La Love Me",
+      "artist": "비비지 (VIVIZ)",
+      "has_synced": true,
+      "path": "select/04_La_La_Love_Me_비비지_(VIVIZ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La La Love Me",
+      "artist": "VIVIZ (비비지)",
+      "has_synced": true,
+      "path": "select/05_La_La_Love_Me_VIVIZ_(비비지).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La La Love Me",
+      "artist": "VIVIZ",
+      "has_synced": false,
+      "path": "select/pl_01_La_La_Love_Me_VIVIZ.txt"
+    }
+  ]
+}
